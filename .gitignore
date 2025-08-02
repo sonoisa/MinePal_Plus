@@ -1,0 +1,36 @@
+.vscode/
+node_modules/
+package-lock.json
+code_records/
+scratch.js
+bots/**/action-code/**
+bots/**/
+keys.json
+# SSL certificates
+*.pem
+*.csr
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+agent-runlogs/
+node_modules*
+
+.venv
+settings.json
+userData/bots
+userData/runlogs
